@@ -1,0 +1,1 @@
+return {"Plastic","SmoothPlastic","Neon","Wood","WoodPlanks","Marble","Slate","Concrete","Granite","Brick","Pebble","Cobblestone","CorrodedMetal","DiamondPlate","Foil","Metal","Grass","Sand","Fabric","Ice"}
